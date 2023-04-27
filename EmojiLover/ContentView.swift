@@ -27,7 +27,7 @@ struct ContentView: View {
                 }
                 .pickerStyle(.segmented)
             }
-            .navigationTitle(Text("Emoji Lovers!"))
+            .navigationTitle(Text("Hello Emoji Lovers!"))
             .padding()}
     }
 }
